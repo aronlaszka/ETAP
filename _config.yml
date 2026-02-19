@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title:
-description:
+title: Ensemble Prediction of Task Affinity for Efficient Multi-Task Learning
+description: This repository contains the code and data for the paper “Ensemble Prediction of Task Affinity for Efficient Multi-Task Learning”, published at the 14th International Conference on Learning Representations (ICLR 2026).
