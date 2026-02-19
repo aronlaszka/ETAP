@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Hide the main title in the theme header */
+.project-name, header h1 {
+  display: none;
+}
+
+/* Hide the repository description under the title */
+.project-tagline, header h2 {
+  display: none;
+}
